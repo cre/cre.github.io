@@ -1,3 +1,3 @@
-# cre-team.github.io
+# cre.github.io
 
-[cre-team.github.io](http://cre-team.github.io/)
+[cre.github.io](http://cre.github.io/)
